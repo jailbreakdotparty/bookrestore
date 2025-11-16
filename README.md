@@ -1,5 +1,5 @@
 # archived
-this doesn't work. use [duy's PoC]((http://github.com/khanhduytran0/bl_sbx).
+this doesn't work. use [duy's PoC](http://github.com/khanhduytran0/bl_sbx).
 
 no support will be provided
 
