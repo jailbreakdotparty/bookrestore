@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>SkipSetup</key>
+    <array>
+        <string>WiFi</string>
+        <string>Location</string>
+        <string>Restore</string>
+        <string>SIMSetup</string>
+        <string>Android</string>
+        <string>AppleID</string>
+        <string>IntendedUser</string>
+        <string>TOS</string>
+        <string>Siri</string>
+        <string>ScreenTime</string>
+        <string>Diagnostics</string>
+        <string>SoftwareUpdate</string>
+        <string>Passcode</string>
+        <string>Biometric</string>
+        <string>Payment</string>
+        <string>Zoom</string>
+        <string>DisplayTone</string>
+        <string>MessagingActivationUsingPhoneNumber</string>
+        <string>HomeButtonSensitivity</string>
+        <string>CloudStorage</string>
+        <string>ScreenSaver</string>
+        <string>TapToSetup</string>
+        <string>Keyboard</string>
+        <string>PreferredLanguage</string>
+        <string>SpokenLanguage</string>
+        <string>WatchMigration</string>
+        <string>OnBoarding</string>
+        <string>TVProviderSignIn</string>
+        <string>TVHomeScreenSync</string>
+        <string>Privacy</string>
+        <string>TVRoom</string>
+        <string>iMessageAndFaceTime</string>
+        <string>AppStore</string>
+        <string>Safety</string>
+        <string>Multitasking</string>
+        <string>ActionButton</string>
+        <string>TermsOfAddress</string>
+        <string>AccessibilityAppearance</string>
+        <string>Welcome</string>
+        <string>Appearance</string>
+        <string>RestoreCompleted</string>
+        <string>UpdateCompleted</string>
+    </array>
+
+    <key>AllowPairing</key>
+    <true/>
+
+    <key>ConfigurationWasApplied</key>
+    <true/>
+
+    <key>CloudConfigurationUIComplete</key>
+    <true/>
+
+    <key>ConfigurationSource</key>
+    <integer>0</integer>
+
+    <key>PostSetupProfileWasInstalled</key>
+    <true/>
+
+    <key>IsSupervised</key>
+    <false/>
+</dict>
+</plist>
+
