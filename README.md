@@ -1,6 +1,14 @@
 # bookrestore
 patched in iOS 26.2 beta 2 (23C5033h)
 
+# notice
+
+this tool is unstable and experimental. developer-oriented proof-of-concept!!
+
+use at your own risk. [this](http://github.com/khanhduytran0/bl_sbx) is probably the better PoC anyways.
+
+# info
+
 **what is this?** arbitrary file overwrite exploit for iOS versions lower than 26.2 beta 2 (23C5033h)
 
 **how does it work?** path escape involving some database files. this is mainly supposed to be just some exploit code, you can read a decent writeup on the vulnerability [here](https://hanakim3945.github.io/posts/download28_sbx_escape/).
