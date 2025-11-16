@@ -1,3 +1,10 @@
+# archived
+this doesn't work. use [duy's PoC]((http://github.com/khanhduytran0/bl_sbx).
+
+no support will be provided
+
+original README follows below
+
 # bookrestore
 patched in iOS 26.2 beta 2 (23C5033h)
 
